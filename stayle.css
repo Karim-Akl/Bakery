@@ -429,6 +429,11 @@ h1.g{
     margin-left: 50px;
     line-height: normal;
 }
+hr{
+    width: 250px;
+    margin: auto;
+
+}
 /* .im:hover{
     width: 400px;
     height: 300px;
@@ -1059,4 +1064,11 @@ p {
         width: 100%;
         margin-top: 10px;
     }
+}
+.g,.r{
+    line-height: 20px;
+    gap: 10;
+}
+hr{
+    width: 200px;
 }
